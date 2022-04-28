@@ -1,21 +1,21 @@
 To Do List:
   - Finalize which modules work best or are really needed
-  - Create Attribute Score Generation Method
-  - Create GUI basics
-    - Area to type in Character Name, Gender, and Background
-    - Area for Racial Drop Down Menu
-    - Area for Attribute Scores of STR, DEX, CON, INT, WIS, and CHA
-    - Area for HP
-    - Area for Level
-    - Area/Button for Saving the File
-    - Area/Button for Printing the character
+  - (ACHIEVED)Create Attribute Score Generation Method
+  - (ACHIEVED)Create GUI basics
+    - (ACHIEVED)Area to type in Character Name, Gender, and Background
+    - (ACHIEVED)Area for Racial Drop Down Menu
+    - (ACHIEVED)Area for Attribute Scores of STR, DEX, CON, INT, WIS, and CHA
+    - (ACHIEVED)Area for HP
+    - (ACHIEVED)Area for Level
+    - (ACHIEVED)Area/Button for Saving the File
+    - (ACHIEVED)Area/Button for Printing the character
    
-  - Populate Racial Options
+  - (ACHIEVED)Populate Racial Options
     - Apply specific modifiers to Attributes based on chosen option
   - Create and apply equation for HP based on Level and CON score
   - Create functions saving the file
   - Create functions for printing the character created through OS
   - Apply created functions to GUI areas and drop downs
-  - Apply Improved GUI features/appearance. Make it look nice, apply images, etc.
+  - (BASICS)Apply Improved GUI features/appearance. Make it look nice, apply images, etc.
   
    
