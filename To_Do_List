@@ -18,4 +18,8 @@ To Do List:
   - Apply created functions to GUI areas and drop downs
   - (BASICS)Apply Improved GUI features/appearance. Make it look nice, apply images, etc.
   
+  - Convert Attribute Scores Generation into a dictionary
+  - Write to a file function
+  - Print or print to pdf or load file function
+  - INCLUDE some sort of Loop, for example, a for loop with the dictionary to write to file?
    
