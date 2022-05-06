@@ -1,5 +1,5 @@
 To Do List:
-  - Finalize which modules work best or are really needed
+  - (Achieved)Finalize which modules work best or are really needed
   - (ACHIEVED)Create Attribute Score Generation Method
   - (ACHIEVED)Create GUI basics
     - (ACHIEVED)Area to type in Character Name, Gender, and Background
@@ -11,16 +11,14 @@ To Do List:
     - (ACHIEVED)Area/Button for Printing the character
    
   - (ACHIEVED)Populate Racial Options
-    - Apply specific modifiers to Attributes based on chosen option
-  - Create and apply equation for HP based on Level and CON score
-  - Create functions saving the file
-  - Create functions for printing the character created through OS
-  - Apply created functions to GUI areas and drop downs
+  - (Achieved)Create and apply equation for HP based on Level and CON score
+  - (Acheived)Create functions for printing the character created as a PNG.
+  - (Achieved) Apply created functions to GUI areas and drop downs
   - (BASICS)Apply Improved GUI features/appearance. Make it look nice, apply images, etc.
   
-  - Convert Attribute Scores Generation into a dictionary
-  - Write to a file function
-  - Print or print to pdf or load file function
-  - INCLUDE some sort of Loop, for example, a for loop with the dictionary to write to file?
-  - Try and add IF statement
+  - (Achieved) Convert Attribute Scores Generation into a dictionary
+  - (Achieved) Write to a file function
+  - (Achieved) Print or print to pdf or load file function
+  - (Achieved) INCLUDE some sort of Loop, for example, a for loop with the dictionary to write to file?
+  
    
